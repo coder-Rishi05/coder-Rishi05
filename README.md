@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @coder-Rishi05
 - 👀 I’m interested in learning new technologies and programming languages.
 - 🌱 I’m currently learning react.
-- 📫  to reach me mail at rawatrishi1121@gmail.com
--🔭 I’m currently working on SQL and Linux
+- 📫  to reach me mail at rawatrishi1121@gmail.com <br>
+-🔭 I’m currently working on SQL and Linux <br>
 - 💬 Ask me about HTML, CSS and JS
 
 <!---

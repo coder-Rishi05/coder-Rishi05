@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react.
 - 📫  to reach me mail at rawatrishi1121@gmail.com
 -🔭 I’m currently working on SQL and Linux
---💬 Ask me about HTML, CSS and JS
+- 💬 Ask me about HTML, CSS and JS
 
 <!---
 coder-Rishi05/coder-Rishi05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

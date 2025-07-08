@@ -64,6 +64,7 @@ I love building things from scratch, exploring new tech, and keeping my code cle
 - Building personal projects to sharpen my skills
 - Exploring open source and GitHub Actions
 - Connecting with other developers and learning from the community
+- learning react, node js and improving logical skills with DSA.
 
 ---
 

@@ -45,6 +45,24 @@ I love exploring new technologies, optimizing code, and learning from real-world
 
 ---
 
+## 🚧 Projects & Live Demos
+
+Here are some of the projects I’ve built while learning and experimenting 👇  
+
+| Project | Description | Links |
+|----------|--------------|-------|
+| 🧾 **Subscription Tracker API** | Full-Stack MERN app for managing and tracking subscriptions with authentication, JWT, and role-based access | [🔗 Live](https://your-live-link-here.vercel.app) • [💻 Repo](https://github.com/coder-Rishi05/subscription-tracker-api) |
+| 🧠 **Notion Template Generator** | Backend + Frontend tool that lets users generate Notion-style templates dynamically | [🔗 Live](https://your-live-link-here.vercel.app) • [💻 Repo](https://github.com/coder-Rishi05/notion-template-generator) |
+| 📰 **Personal Blog Website** | Built with Next.js and Markdown — clean, minimal, and fast | [🔗 Live](https://your-blog-link.vercel.app) • [💻 Repo](https://github.com/coder-Rishi05/blog) |
+| 🎮 **React Mini Games Collection** | A collection of small fun games built using React + Tailwind | [🔗 Live](https://your-live-link.vercel.app) • [💻 Repo](https://github.com/coder-Rishi05/react-mini-games) |
+| 🪄 **Portfolio Website** | My personal developer portfolio showcasing skills, journey, and projects | [🔗 Live](https://your-live-link.vercel.app) • [💻 Repo](https://github.com/coder-Rishi05/portfolio) |
+
+---
+
+> 💬 *Each project helped me learn something new — from authentication and API design to state management and deployment pipelines.*
+
+
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=coder-Rishi05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)

@@ -12,6 +12,10 @@ I love exploring new technologies, optimizing code, and learning from real-world
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rishabh-Rawat) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@kaizen-rishi) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rawatrishi1121@gmail.com)
+<a href="https://github.com/coder-Rishi05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="coder-Rishi05" height="30" width="40" /></a>
+<a href="https://hackerrank.com/@rishabhrawat1800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rishabhrawat1800" height="30" width="40" /></a>
+<a href="https://leetcode.com/ Rishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt=" Rishi" height="30" width="40" /></a>
+</p>
 
 ---
 

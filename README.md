@@ -56,8 +56,8 @@ Here are some of the projects I’ve built while learning and experimenting 👇
 | Project | Description | Links |
 |----------|--------------|-------|
 | 🧾 **Subscription Tracker API** | Backend app for managing and tracking subscriptions with authentication, JWT, and role-based access | [🔗 Live](https://your-live-link-here.vercel.app) • [💻 Repo](https://github.com/coder-Rishi05/SubscriptionTracking-API) |
-| 🧠 **Mern TODO** | Backend + Frontend tool that lets users create, read, update and delete the notes | [🔗 Live](https://your-live-link-here.vercel.app) • [💻 Repo](https://github.com/coder-Rishi05/TODO-app) |
-| 📰 **K-72** | Built react and GSAP — UI clone of K-72 site | [🔗 Live](https://your-blog-link.vercel.app) • [💻 Repo](https://github.com/coder-Rishi05/K-72) |
+| 🧠 **Mern TODO** | Backend + Frontend tool that lets users create, read, update and delete the notes | [🔗 Live](in progress...) • [💻 Repo](in progress...) |
+| 📰 **K-72** | Built react and GSAP — UI clone of K-72 site | [🔗 Live](in progress...)) • [💻 Repo](in progress...) |
 | 🎮 **React Mini Games Collection** | A collection of small fun games built using React + Tailwind | [🔗 Live](in progress...) • [💻 Repo](in progress...) |
 | 🪄 **Portfolio Website** | My personal developer portfolio showcasing skills, journey, and projects | [🔗 Live](in progress...) • [💻 Repo](in progress...) |
 

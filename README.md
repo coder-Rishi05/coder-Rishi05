@@ -41,10 +41,11 @@ I love exploring new technologies, optimizing code, and learning from real-world
 
 ## 🧠 What I'm Learning & Building
 
-- 🔭 Currently working on: **Subscription Tracker API** (Full MERN Stack Project)  
-- 🌱 Learning focus: **Authentication, JWT, MongoDB Relations, and Role-Based Access Control**  
-- 🧩 Exploring: **AI/ML Roadmap (Python → NumPy → Pandas → scikit-learn → OpenAI API → LangChain)**  
-- 🧰 Experimenting with: **Next.js**, **React Context**, and **Protected Routes**  
+- 🔭 Currently working on: **Subscription Tracker API** (Full MERN Stack Project). 
+- 🌱 Learning focus: **Authentication, JWT, MongoDB Relations, and Role-Based Access Control**.
+- 🧩 Exploring: **AI/ML Roadmap (Python → NumPy → Pandas → scikit-learn → OpenAI API → LangChain)**.  
+- 🧰 Experimenting with: **Next.js**, **React Context**, and **Protected Routes**
+- 🧠 Also solving & exploring **DSA**, Solved more than 150+ questions.
 - 📝 Sharing insights on: [Medium](https://medium.com/@kaizen-rishi)
 
 ---

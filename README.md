@@ -3,7 +3,7 @@
 ### 🚀 A passionate React Developer who loves to build, break, and rebuild things better.
 
 💡 Currently on a journey to master **Full-Stack Web Development** (MERN) — blending creativity with logic to craft meaningful web experiences.  
-I love exploring new technologies, optimizing code, and learning from real-world projects every day.
+  I love exploring new technologies, optimizing code, and learning from real-world projects every day.
 
 ---
 
@@ -44,7 +44,7 @@ I love exploring new technologies, optimizing code, and learning from real-world
 - 🔭 Currently working on: **Subscription Tracker API** (Full MERN Stack Project). 
 - 🌱 Learning focus: **Authentication, JWT, MongoDB Relations, and Role-Based Access Control**.
 - 🧩 Exploring: **AI/ML Roadmap (Python → NumPy → Pandas → scikit-learn → OpenAI API → LangChain)**.  
-- 🧰 Experimenting with: **Next.js**, **React Context**, and **Protected Routes**
+- 🧰 Experimenting with: **Node.js**, **React Context**, and **Protected Routes**
 - 🧠 Also solving & exploring **DSA**, Solved more than 150+ questions.
 - 📝 Sharing insights on: [Medium](https://medium.com/@kaizen-rishi)
 
@@ -100,5 +100,3 @@ Here are some of the projects I’ve built while learning and experimenting 👇
 ---
 
 [![](https://visitcount.itsvg.in/api?id=coder-Rishi05&icon=1&color=4)](https://visitcount.itsvg.in)
-
-<!-- Made with ❤️ by Rishabh Rawat -->

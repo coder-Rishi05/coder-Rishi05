@@ -59,7 +59,7 @@ Here are some of the projects I’ve built while learning and experimenting 👇
 |----------|--------------|-------|
 | 🧾 **url_shortner** | Backend app for managing and shortning urls , JWT, and role-based access | [🔗 Live](in progress...) • [💻 Repo](https://github.com/coder-Rishi05/url_shortner) |
 | 🧠 **Mern TODO** | Backend + Frontend tool that lets users create, read, update and delete the notes | [🔗 Live](in progress...) • [💻 Repo](https://github.com/coder-Rishi05/TODO-app) |
-| 📰 **K-72** | Built react and GSAP — UI clone of K-72 site | [🔗 Live](in progress...)) • [💻 Repo](https://github.com/coder-Rishi05/K-72) |
+| 📰 **Social-Connection-Backend-API** | A backend system built with Node.js, Express, and MongoDB that enables authenticated users to discover profiles, send connection requests, review requests, and manage mutual connections with secure access control. | [🔗 Live](in progress...)) • [💻 Repo](https://github.com/coder-Rishi05/Social-Connection-Backend-API)) |
 | 🎮 **React Mini Games Collection** | A collection of small fun games built using React + Tailwind | [🔗 Live](in progress...) • [💻 Repo](in progress...) |
 | 🪄 **Portfolio Website** | My personal developer portfolio showcasing skills, journey, and projects | [🔗 Live](in progress...) • [💻 Repo](in progress...) |
 

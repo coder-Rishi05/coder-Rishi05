@@ -61,7 +61,7 @@ Here are some of the projects I’ve built while learning and experimenting 👇
 | 🧠 **Mern TODO** | Backend + Frontend tool that lets users create, read, update and delete the notes | [🔗 Live](in progress...) • [💻 Repo](https://github.com/coder-Rishi05/TODO-app) |
 | 📰 **Social-Connection-Backend-API** | A backend system built with Node.js, Express, and MongoDB that enables authenticated users to discover profiles, send connection requests, review requests, and manage mutual connections with secure access control. | [🔗 Live](in progress...)) • [💻 Repo](https://github.com/coder-Rishi05/Social-Connection-Backend-API)) |
 | 🎮 **Movie Topia** | A collection of movies and web shows using  React + Tailwind and TMDB api | [🔗 Live](https://movie-topia-khaki.vercel.app) • [💻 Repo](https://github.com/coder-Rishi05/MovieTopia) |
-| 🪄 **Portfolio Website** | My personal developer portfolio showcasing skills, journey, and projects | [🔗 Live](in progress...) • [💻 Repo](in progress...) |
+| 🪄 **Portfolio Website** | My personal developer portfolio showcasing skills, journey, and projects | [🔗 Live](in progress...) • [💻 Repo](https://github.com/coder-Rishi05/nextfolio) |
 
 ---
 

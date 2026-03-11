@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm rishi a.k.a Rishabh Rawat
 
-### 🚀 A passionate React Developer who loves to build, break, and rebuild things better.
+### 🚀 A passionate Fullstack Developer who loves to build, break, and rebuild things better.
 
 💡 Currently on a journey to master **Full-Stack Web Development** (MERN) — blending creativity with logic to craft meaningful web experiences.  
     I love exploring new technologies, optimizing code, and learning from real-world projects every day.

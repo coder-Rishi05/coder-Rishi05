@@ -62,6 +62,7 @@ Here are some of the projects I’ve built while learning and experimenting 👇
 | 📰 **Social-Connection-Backend-API** | A backend system built with Node.js, Express, and MongoDB that enables authenticated users to discover profiles, send connection requests, review requests, and manage mutual connections with secure access control. | [🔗 Live](in progress...)) • [💻 Repo](https://github.com/coder-Rishi05/Social-Connection-Backend-API)) |
 | 🎮 **Movie Topia** | A collection of movies and web shows using  React + Tailwind and TMDB api | [🔗 Live](https://movie-topia-khaki.vercel.app) • [💻 Repo](https://github.com/coder-Rishi05/MovieTopia) |
 | 🪄 **Portfolio Website** | My personal developer portfolio showcasing skills, journey, and projects | [🔗 Live](https://nextfolio-sigma-nine.vercel.app/) • [💻 Repo](https://github.com/coder-Rishi05/nextfolio) |
+| 🪄 **Resume Forge** | A web service to analyse resume and send directly to hr | [🔗 Live](https://nextfolio-sigma-nine.vercel.app/) • [💻 Repo](https://github.com/coder-Rishi05/nextfolio) |
 
 ---
 

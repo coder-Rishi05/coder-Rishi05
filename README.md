@@ -1,10 +1,9 @@
-# 👋 Hey there, I'm rishi a.k.a Rishabh Rawat
+# 👋 Hey there, I'm Rishi a.k.a Rishabh Rawat
 
 ### 🚀 A passionate Fullstack Developer who loves to build, break, and rebuild things better.
 
 💡 Currently on a journey to master **Full-Stack Web Development** (MERN) — blending creativity with logic to craft meaningful web experiences.  
-    I love exploring new technologies, optimizing code, and learning from real-world projects every day.
-    
+I love exploring new technologies, optimizing code, and learning from real-world projects every day.
 
 ---
 
@@ -13,10 +12,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawatrishi3/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kaizen-rishi) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rawatrishi1121@gmail.com)
-<a href="https://github.com/coder-Rishi05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="coder-Rishi05" height="30" width="40" /></a>
-<a href="https://hackerrank.com/@rishabhrawat1800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rishabhrawat1800" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/rishabhrawat1800/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt=" Rishi" height="30" width="40" /></a>
-</p>
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat&link=https://github.com/coder-Rishi05)  
+[![HackerRank](https://img.shields.io/badge/hackerrank-%2318B85B.svg?logo=HackerRank&logoColor=white)](https://hackerrank.com/@rishabhrawat1800) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/rishabhrawat1800/)
 
 ---
 
@@ -46,35 +44,48 @@
 - 🌱 Learning focus: **Authentication, JWT, MongoDB Relations, and Role-Based Access Control**.
 - 🧩 Exploring: **AI/ML (Python → NumPy → Pandas → scikit-learn → OpenAI API → LangChain)**.  
 - 🧰 Experimenting with: **Node.js**, **React Context**, and **Protected Routes**
-- 🧠 Also solving & exploring **DSA**, Solved more than 150+ questions.
+- 🧠 Also solving & exploring **DSA**, with **150+ problems solved**.
 - 📝 Sharing insights on: [Medium](https://medium.com/@kaizen-rishi)
 
 ---
 
-## 🚧 Projects & Live Demos
+## 🚧 Projects & Live Demos 
 
 Here are some of the projects I’ve built while learning and experimenting 👇  
 
 | Project | Description | Links |
 |----------|--------------|-------|
-| 🧾 **url_shortner** | Backend app for managing and shortning urls , JWT, and role-based access | [🔗Live](https://url-frontend-fhzz.onrender.com/) • [💻 Repo](https://github.com/coder-Rishi05/url_shortner) |
-| 🧠 **Mern TODO** | Backend + Frontend tool that lets users create, read, update and delete the notes | [🔗 Live](in progress...) • [💻 Repo](https://github.com/coder-Rishi05/TODO-app) |
-| 📰 **Social-Connection-Backend-API** | A backend system built with Node.js, Express, and MongoDB that enables authenticated users to discover profiles, send connection requests, review requests, and manage mutual connections with secure access control. | [🔗 Live](in progress...)) • [💻 Repo](https://github.com/coder-Rishi05/Social-Connection-Backend-API)) |
-| 🎮 **Movie Topia** | A collection of movies and web shows using  React + Tailwind and TMDB api | [🔗 Live](https://movie-topia-khaki.vercel.app) • [💻 Repo](https://github.com/coder-Rishi05/MovieTopia) |
-| 🪄 **Portfolio Website** | My personal developer portfolio showcasing skills, journey, and projects | [🔗 Live](https://nextfolio-sigma-nine.vercel.app/) • [💻 Repo](https://github.com/coder-Rishi05/nextfolio) |
-| 🔎 **Resume Forge** | A web service to analyse resume and send directly to hr | [🔗 Live](https://resumeforge-1-c1t9.onrender.com) • [💻 Repo](https://github.com/coder-Rishi05/ResumeForge) |
+| 🧾 **url_shortner** | Backend app for managing and shortening URLs, JWT, and role-based access | [🔗Live](https://url-frontend-fhzz.onrender.com/) • [💻 Repo](https://github.com/coder-Rishi05/url_shortner) |
+| 🧠 **Mern TODO** | Fullstack CRUD app for managing task notes | [🔗 Live](in progress...) • [💻 Repo](https://github.com/coder-Rishi05/TODO-app) |
+| 📰 **Social-Connection-Backend-API** | Backend for managing user profiles, connections, and secure access control | [🔗 Live](in progress...) • [💻 Repo](https://github.com/coder-Rishi05/Social-Connection-Backend-API) |
+| 🎮 **Movie Topia** | Catalogs movies and shows with React, TailwindCSS, and TMDB API | [🔗 Live](https://movie-topia-khaki.vercel.app) • [💻 Repo](https://github.com/coder-Rishi05/MovieTopia) |
+| 🪄 **Portfolio Website** | Showcases journey, projects, and skills | [🔗 Live](https://nextfolio-sigma-nine.vercel.app/) • [💻 Repo](https://github.com/coder-Rishi05/nextfolio) |
+| 🔎 **Resume Forge** | Web tool for resume analysis and HR automation | [🔗 Live](https://resumeforge-1-c1t9.onrender.com) • [💻 Repo](https://github.com/coder-Rishi05/ResumeForge) |
 
 ---
 
 > 💬 *Each project helped me learn something new — from authentication and API design to state management and deployment pipelines.*
 
-
+---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=coder-Rishi05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=coder-Rishi05&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=coder-Rishi05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=coder-Rishi05&theme=tokyonight&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-Rishi05&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+## 📜 Additional Stats
+
+🌟 **Consistency Counter**  
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder-Rishi05&theme=tokyonight)  
+
+🔗 **Language Usage**  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder-Rishi05&theme=tokyonight)  
+
+📈 **Profile Overview**  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-Rishi05&theme=tokyonight)
 
 ---
 
@@ -86,7 +97,7 @@ Here are some of the projects I’ve built while learning and experimenting 👇
 
 ## 📈 Contribution Graph
 
-[![Rishabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coder-Rishi05&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=coder-Rishi05&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
